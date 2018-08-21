@@ -1,4 +1,4 @@
-This is not a heading
+# This is not a heading
 
 ## this is a secondary heading
 
